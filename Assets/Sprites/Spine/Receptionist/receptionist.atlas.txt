@@ -1,0 +1,83 @@
+
+receptionist.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Livello 19
+  rotate: false
+  xy: 89, 224
+  size: 97, 30
+  orig: 99, 32
+  offset: 1, 1
+  index: -1
+base-occhioni
+  rotate: false
+  xy: 187, 227
+  size: 67, 27
+  orig: 69, 28
+  offset: 1, 1
+  index: -1
+base-testa
+  rotate: false
+  xy: 1, 166
+  size: 87, 88
+  orig: 89, 91
+  offset: 1, 0
+  index: -1
+bocca
+  rotate: false
+  xy: 48, 73
+  size: 33, 13
+  orig: 34, 15
+  offset: 1, 1
+  index: -1
+busto
+  rotate: false
+  xy: 1, 87
+  size: 85, 78
+  orig: 85, 79
+  offset: 0, 1
+  index: -1
+collo
+  rotate: true
+  xy: 143, 181
+  size: 17, 25
+  orig: 19, 27
+  offset: 1, 1
+  index: -1
+mano-d
+  rotate: false
+  xy: 1, 9
+  size: 29, 77
+  orig: 31, 78
+  offset: 1, 1
+  index: -1
+mano-f
+  rotate: true
+  xy: 89, 199
+  size: 24, 80
+  orig: 26, 81
+  offset: 1, 0
+  index: -1
+naso
+  rotate: false
+  xy: 170, 205
+  size: 10, 18
+  orig: 12, 20
+  offset: 1, 1
+  index: -1
+occhioni
+  rotate: false
+  xy: 89, 180
+  size: 53, 18
+  orig: 55, 19
+  offset: 1, 0
+  index: -1
+sopracciglia
+  rotate: true
+  xy: 31, 21
+  size: 65, 16
+  orig: 67, 18
+  offset: 1, 1
+  index: -1

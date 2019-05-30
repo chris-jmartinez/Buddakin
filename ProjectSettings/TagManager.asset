@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SkylineBackground
+    uniqueID: 1867731183
+    locked: 0
+  - name: CloudsBackground
+    uniqueID: 928867369
+    locked: 0
+  - name: BehindWallsAndTerrain
+    uniqueID: 1875993203
+    locked: 0
+  - name: TerrainWallsBgElements
+    uniqueID: 1804309213
+    locked: 0
+  - name: ObjectsBgNoInteraction
+    uniqueID: 3080874827
+    locked: 0
+  - name: GameplayAndObjectsInteractive
+    uniqueID: 3335285221
+    locked: 0

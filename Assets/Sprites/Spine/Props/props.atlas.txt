@@ -1,0 +1,363 @@
+
+props.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Livello 19
+  rotate: true
+  xy: 947, 327
+  size: 97, 30
+  orig: 99, 32
+  offset: 1, 1
+  index: -1
+Livello 534
+  rotate: true
+  xy: 879, 425
+  size: 54, 95
+  orig: 56, 95
+  offset: 2, 0
+  index: -1
+Livello 535
+  rotate: true
+  xy: 389, 67
+  size: 93, 87
+  orig: 94, 88
+  offset: 0, 1
+  index: -1
+Livello 536
+  rotate: true
+  xy: 873, 480
+  size: 60, 114
+  orig: 61, 115
+  offset: 0, 1
+  index: -1
+Livello 537
+  rotate: false
+  xy: 535, 244
+  size: 87, 173
+  orig: 90, 173
+  offset: 1, 0
+  index: -1
+Livello 538
+  rotate: true
+  xy: 157, 3
+  size: 50, 105
+  orig: 52, 111
+  offset: 1, 1
+  index: -1
+Livello 539
+  rotate: true
+  xy: 885, 555
+  size: 73, 124
+  orig: 78, 126
+  offset: 4, 1
+  index: -1
+Livello 540
+  rotate: false
+  xy: 284, 65
+  size: 104, 106
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+Livello 541
+  rotate: true
+  xy: 736, 478
+  size: 69, 136
+  orig: 69, 136
+  offset: 0, 0
+  index: -1
+Livello 542
+  rotate: true
+  xy: 751, 421
+  size: 56, 127
+  orig: 69, 129
+  offset: 12, 1
+  index: -1
+Livello 543
+  rotate: true
+  xy: 522, 473
+  size: 74, 213
+  orig: 81, 224
+  offset: 1, 4
+  index: -1
+Livello 544
+  rotate: false
+  xy: 623, 254
+  size: 86, 163
+  orig: 93, 165
+  offset: 0, 1
+  index: -1
+base-occhioni
+  rotate: false
+  xy: 880, 297
+  size: 67, 27
+  orig: 69, 28
+  offset: 1, 1
+  index: -1
+base-testa
+  rotate: true
+  xy: 796, 548
+  size: 87, 88
+  orig: 89, 91
+  offset: 1, 0
+  index: -1
+big-door-doorknob
+  rotate: false
+  xy: 532, 185
+  size: 38, 41
+  orig: 48, 43
+  offset: 1, 1
+  index: -1
+big-door-outside copia 2
+  rotate: false
+  xy: 154, 54
+  size: 129, 513
+  orig: 129, 513
+  offset: 0, 0
+  index: -1
+big-door-outside-top
+  rotate: false
+  xy: 1, 45
+  size: 152, 522
+  orig: 154, 525
+  offset: 1, 1
+  index: -1
+big-door-outside-top copia
+  rotate: false
+  xy: 397, 161
+  size: 79, 228
+  orig: 81, 231
+  offset: 1, 1
+  index: -1
+bocca
+  rotate: false
+  xy: 477, 67
+  size: 33, 13
+  orig: 34, 15
+  offset: 1, 1
+  index: -1
+busto
+  rotate: false
+  xy: 796, 218
+  size: 85, 78
+  orig: 85, 79
+  offset: 0, 1
+  index: -1
+coin
+  rotate: false
+  xy: 284, 390
+  size: 176, 177
+  orig: 178, 178
+  offset: 1, 0
+  index: -1
+coin-sside
+  rotate: false
+  xy: 502, 227
+  size: 32, 179
+  orig: 34, 181
+  offset: 1, 1
+  index: -1
+collo
+  rotate: false
+  xy: 263, 28
+  size: 17, 25
+  orig: 19, 27
+  offset: 1, 1
+  index: -1
+conversion-light-hanger
+  rotate: true
+  xy: 885, 541
+  size: 13, 122
+  orig: 14, 130
+  offset: 0, 8
+  index: -1
+conversion-light-light
+  rotate: false
+  xy: 540, 611
+  size: 246, 412
+  orig: 257, 433
+  offset: 6, 19
+  index: -1
+drop
+  rotate: false
+  xy: 532, 150
+  size: 23, 34
+  orig: 25, 36
+  offset: 1, 1
+  index: -1
+flame
+  rotate: true
+  xy: 522, 418
+  size: 54, 228
+  orig: 56, 235
+  offset: 1, 1
+  index: -1
+helicopter-base
+  rotate: false
+  xy: 1, 747
+  size: 538, 276
+  orig: 541, 283
+  offset: 1, 1
+  index: -1
+key
+  rotate: false
+  xy: 710, 263
+  size: 85, 154
+  orig: 86, 156
+  offset: 0, 1
+  index: -1
+key-side
+  rotate: false
+  xy: 997, 873
+  size: 18, 150
+  orig: 22, 152
+  offset: 0, 1
+  index: -1
+lamp-base
+  rotate: false
+  xy: 461, 407
+  size: 60, 160
+  orig: 61, 161
+  offset: 0, 0
+  index: -1
+lamp-collo
+  rotate: false
+  xy: 477, 162
+  size: 24, 244
+  orig: 24, 244
+  offset: 0, 0
+  index: -1
+lamp-hang
+  rotate: true
+  xy: 796, 297
+  size: 123, 83
+  orig: 125, 85
+  offset: 1, 1
+  index: -1
+lamp-lamp
+  rotate: false
+  xy: 787, 636
+  size: 122, 177
+  orig: 124, 179
+  offset: 1, 1
+  index: -1
+lamp-light
+  rotate: true
+  xy: 880, 325
+  size: 99, 66
+  orig: 102, 90
+  offset: 2, 3
+  index: -1
+lamp-top
+  rotate: false
+  xy: 882, 256
+  size: 32, 40
+  orig: 34, 42
+  offset: 1, 1
+  index: -1
+laser-ray
+  rotate: false
+  xy: 468, 1
+  size: 46, 65
+  orig: 60, 65
+  offset: 7, 0
+  index: -1
+laser-ray-beamer
+  rotate: false
+  xy: 405, 1
+  size: 62, 65
+  orig: 64, 65
+  offset: 1, 0
+  index: -1
+light
+  rotate: false
+  xy: 522, 549
+  size: 16, 18
+  orig: 18, 20
+  offset: 1, 1
+  index: -1
+light-behind
+  rotate: false
+  xy: 787, 814
+  size: 209, 209
+  orig: 231, 231
+  offset: 11, 11
+  index: -1
+mano-d
+  rotate: false
+  xy: 502, 149
+  size: 29, 77
+  orig: 31, 78
+  offset: 1, 1
+  index: -1
+mano-f
+  rotate: false
+  xy: 477, 81
+  size: 24, 80
+  orig: 26, 81
+  offset: 1, 0
+  index: -1
+naso
+  rotate: false
+  xy: 988, 522
+  size: 10, 18
+  orig: 12, 20
+  offset: 1, 1
+  index: -1
+occhioni
+  rotate: true
+  xy: 997, 819
+  size: 53, 18
+  orig: 55, 19
+  offset: 1, 0
+  index: -1
+pala
+  rotate: true
+  xy: 1, 1
+  size: 43, 155
+  orig: 48, 158
+  offset: 1, 2
+  index: -1
+palma-foglia
+  rotate: false
+  xy: 540, 548
+  size: 255, 62
+  orig: 258, 65
+  offset: 1, 2
+  index: -1
+palma-tronco
+  rotate: false
+  xy: 284, 1
+  size: 120, 63
+  orig: 130, 65
+  offset: 8, 1
+  index: -1
+reception
+  rotate: false
+  xy: 1, 568
+  size: 538, 178
+  orig: 544, 180
+  offset: 3, 1
+  index: -1
+sopracciglia
+  rotate: false
+  xy: 535, 227
+  size: 65, 16
+  orig: 67, 18
+  offset: 1, 1
+  index: -1
+tnt-red
+  rotate: true
+  xy: 284, 172
+  size: 217, 112
+  orig: 219, 114
+  offset: 1, 1
+  index: -1
+tnt-red copia
+  rotate: true
+  xy: 910, 629
+  size: 184, 90
+  orig: 187, 93
+  offset: 2, 2
+  index: -1

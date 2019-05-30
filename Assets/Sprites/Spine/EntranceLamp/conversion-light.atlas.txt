@@ -1,0 +1,27 @@
+
+conversion-light.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+props/conversion-light-hanger
+  rotate: false
+  xy: 248, 358
+  size: 13, 122
+  orig: 14, 130
+  offset: 0, 8
+  index: -1
+props/conversion-light-light
+  rotate: false
+  xy: 1, 68
+  size: 246, 412
+  orig: 257, 433
+  offset: 6, 19
+  index: -1
+props/lamp-light
+  rotate: false
+  xy: 1, 1
+  size: 99, 66
+  orig: 102, 90
+  offset: 2, 3
+  index: -1

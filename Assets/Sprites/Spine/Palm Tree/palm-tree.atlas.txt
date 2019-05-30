@@ -1,0 +1,20 @@
+
+palm-tree.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+palma-foglia
+  rotate: false
+  xy: 1, 194
+  size: 255, 62
+  orig: 258, 65
+  offset: 1, 2
+  index: -1
+palma-tronco
+  rotate: false
+  xy: 1, 130
+  size: 120, 63
+  orig: 130, 65
+  offset: 8, 1
+  index: -1

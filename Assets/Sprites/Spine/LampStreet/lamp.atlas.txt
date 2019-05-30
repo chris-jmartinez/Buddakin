@@ -1,0 +1,48 @@
+
+lamp.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lamp-base
+  rotate: false
+  xy: 124, 263
+  size: 60, 160
+  orig: 61, 161
+  offset: 0, 0
+  index: -1
+lamp-collo
+  rotate: false
+  xy: 1, 1
+  size: 24, 244
+  orig: 24, 244
+  offset: 0, 0
+  index: -1
+lamp-hang
+  rotate: true
+  xy: 26, 122
+  size: 123, 83
+  orig: 125, 85
+  offset: 1, 1
+  index: -1
+lamp-lamp
+  rotate: false
+  xy: 1, 246
+  size: 122, 177
+  orig: 124, 179
+  offset: 1, 1
+  index: -1
+lamp-light-inside
+  rotate: false
+  xy: 185, 340
+  size: 93, 83
+  orig: 95, 85
+  offset: 1, 1
+  index: -1
+lamp-top
+  rotate: false
+  xy: 26, 81
+  size: 32, 40
+  orig: 34, 42
+  offset: 1, 1
+  index: -1

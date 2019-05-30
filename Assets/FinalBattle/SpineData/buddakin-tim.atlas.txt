@@ -1,0 +1,328 @@
+
+buddakin-tim.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buddakin/base-testa
+  rotate: false
+  xy: 508, 716
+  size: 256, 184
+  orig: 259, 188
+  offset: 1, 3
+  index: -1
+buddakin/basecorpo
+  rotate: false
+  xy: 1, 632
+  size: 295, 294
+  orig: 299, 299
+  offset: 2, 1
+  index: -1
+buddakin/bocca1
+  rotate: true
+  xy: 605, 86
+  size: 68, 65
+  orig: 71, 68
+  offset: 2, 1
+  index: -1
+buddakin/bocca2
+  rotate: true
+  xy: 474, 68
+  size: 72, 59
+  orig: 75, 61
+  offset: 2, 1
+  index: -1
+buddakin/braccio-su
+  rotate: false
+  xy: 242, 481
+  size: 116, 150
+  orig: 123, 160
+  offset: 5, 2
+  index: -1
+buddakin/bracciogiu
+  rotate: false
+  xy: 586, 155
+  size: 74, 128
+  orig: 79, 134
+  offset: 2, 4
+  index: -1
+buddakin/energy swish
+  rotate: false
+  xy: 514, 150
+  size: 71, 133
+  orig: 75, 139
+  offset: 2, 3
+  index: -1
+buddakin/energy-ball-buddakin
+  rotate: false
+  xy: 858, 864
+  size: 159, 159
+  orig: 162, 165
+  offset: 2, 4
+  index: -1
+buddakin/energy-feet
+  rotate: false
+  xy: 1, 927
+  size: 553, 96
+  orig: 567, 107
+  offset: 3, 3
+  index: -1
+buddakin/fascia
+  rotate: false
+  xy: 1, 359
+  size: 240, 272
+  orig: 245, 276
+  offset: 2, 1
+  index: -1
+buddakin/gambagiu
+  rotate: false
+  xy: 242, 362
+  size: 123, 118
+  orig: 129, 121
+  offset: 3, 2
+  index: -1
+buddakin/gambagiu-d
+  rotate: false
+  xy: 350, 22
+  size: 123, 118
+  orig: 129, 121
+  offset: 3, 2
+  index: -1
+buddakin/gambasu
+  rotate: false
+  xy: 497, 408
+  size: 124, 95
+  orig: 129, 99
+  offset: 3, 2
+  index: -1
+buddakin/luccico
+  rotate: true
+  xy: 720, 501
+  size: 49, 29
+  orig: 52, 33
+  offset: 2, 3
+  index: -1
+buddakin/mano
+  rotate: true
+  xy: 474, 1
+  size: 66, 57
+  orig: 71, 59
+  offset: 2, 1
+  index: -1
+buddakin/mutande
+  rotate: false
+  xy: 555, 901
+  size: 302, 122
+  orig: 309, 126
+  offset: 3, 2
+  index: -1
+buddakin/naso
+  rotate: false
+  xy: 972, 705
+  size: 50, 50
+  orig: 54, 53
+  offset: 3, 2
+  index: -1
+buddakin/occhiali
+  rotate: false
+  xy: 1, 9
+  size: 174, 75
+  orig: 178, 77
+  offset: 2, 1
+  index: -1
+buddakin/occhiali-barra
+  rotate: true
+  xy: 622, 432
+  size: 71, 16
+  orig: 73, 19
+  offset: 1, 1
+  index: -1
+buddakin/om
+  rotate: true
+  xy: 366, 402
+  size: 142, 130
+  orig: 148, 133
+  offset: 4, 1
+  index: -1
+buddakin/om-braccio
+  rotate: false
+  xy: 534, 79
+  size: 70, 70
+  orig: 73, 73
+  offset: 2, 1
+  index: -1
+buddakin/orecchio
+  rotate: false
+  xy: 972, 816
+  size: 51, 47
+  orig: 55, 50
+  offset: 3, 2
+  index: -1
+buddakin/sopracc1
+  rotate: false
+  xy: 750, 501
+  size: 56, 25
+  orig: 60, 27
+  offset: 1, 1
+  index: -1
+buddakin/sopracc2
+  rotate: false
+  xy: 720, 551
+  size: 37, 34
+  orig: 39, 38
+  offset: 1, 3
+  index: -1
+tim-gun/button-light-gun
+  rotate: true
+  xy: 831, 871
+  size: 29, 23
+  orig: 32, 28
+  offset: 1, 3
+  index: -1
+tim-gun/canne-gun
+  rotate: false
+  xy: 508, 586
+  size: 249, 129
+  orig: 406, 133
+  offset: 97, 2
+  index: -1
+tim-gun/corpo-gun
+  rotate: true
+  xy: 758, 527
+  size: 159, 186
+  orig: 162, 189
+  offset: 2, 2
+  index: -1
+tim-gun/explosion-gun
+  rotate: false
+  xy: 1, 85
+  size: 181, 273
+  orig: 190, 290
+  offset: 7, 14
+  index: -1
+tim/arm-down-tim
+  rotate: true
+  xy: 508, 504
+  size: 81, 136
+  orig: 83, 156
+  offset: 1, 18
+  index: -1
+tim/arm-up-tim
+  rotate: true
+  xy: 359, 545
+  size: 102, 148
+  orig: 108, 153
+  offset: 5, 3
+  index: -1
+tim/base-corpo-tim
+  rotate: false
+  xy: 297, 648
+  size: 210, 278
+  orig: 212, 281
+  offset: 1, 1
+  index: -1
+tim/base-volto-tim
+  rotate: true
+  xy: 765, 687
+  size: 176, 206
+  orig: 190, 208
+  offset: 12, 1
+  index: -1
+tim/gambagiu-tim
+  rotate: true
+  xy: 382, 270
+  size: 131, 128
+  orig: 141, 132
+  offset: 7, 2
+  index: -1
+tim/gambagiu-tim copia
+  rotate: false
+  xy: 382, 141
+  size: 131, 128
+  orig: 141, 132
+  offset: 7, 2
+  index: -1
+tim/gambasu-tim
+  rotate: false
+  xy: 511, 284
+  size: 105, 123
+  orig: 107, 127
+  offset: 1, 2
+  index: -1
+tim/hair-down-tim
+  rotate: true
+  xy: 183, 151
+  size: 207, 198
+  orig: 212, 204
+  offset: 3, 2
+  index: -1
+tim/hair-up-tim
+  rotate: false
+  xy: 183, 33
+  size: 166, 117
+  orig: 170, 122
+  offset: 2, 4
+  index: -1
+tim/hand-tim
+  rotate: false
+  xy: 645, 505
+  size: 74, 80
+  orig: 82, 87
+  offset: 3, 1
+  index: -1
+tim/mouth-tim
+  rotate: true
+  xy: 945, 548
+  size: 65, 23
+  orig: 67, 26
+  offset: 1, 1
+  index: -1
+tim/nasotim
+  rotate: false
+  xy: 972, 756
+  size: 43, 59
+  orig: 47, 63
+  offset: 3, 2
+  index: -1
+tim/occhio-d
+  rotate: false
+  xy: 508, 902
+  size: 40, 24
+  orig: 43, 27
+  offset: 1, 1
+  index: -1
+tim/occhio-f
+  rotate: false
+  xy: 765, 871
+  size: 65, 29
+  orig: 72, 32
+  offset: 6, 1
+  index: -1
+tim/pupilla-d
+  rotate: false
+  xy: 965, 669
+  size: 30, 17
+  orig: 34, 19
+  offset: 2, 1
+  index: -1
+tim/pupilla-f
+  rotate: true
+  xy: 176, 1
+  size: 31, 20
+  orig: 33, 22
+  offset: 1, 1
+  index: -1
+tim/sopracc-d
+  rotate: false
+  xy: 972, 687
+  size: 45, 17
+  orig: 49, 19
+  offset: 3, 1
+  index: -1
+tim/sopracc-f
+  rotate: true
+  xy: 945, 614
+  size: 72, 19
+  orig: 77, 21
+  offset: 2, 1
+  index: -1
