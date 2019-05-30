@@ -1,4 +1,5 @@
 __Buddakin__
+https://www.youtube.com/watch?v=chbhmGqFp3k
 
 __OS:__ Windows, Linux, MacOSX
 
@@ -21,7 +22,7 @@ Then, when Buddakin will be finally free, there will be the Final Battle: you wi
 
 Buddakin is a 2d-platform game developed for the Videogame Design and Programming course at the Politecnico di Milano. More information at:
 
-https://www.facebook.com/BuddakinGame/ <br><br> https://www.youtube.com/watch?v=chbhmGqFp3k </p>
+https://www.facebook.com/BuddakinGame/ </p>
 
 <b>Credits:</b>
 <p>Programming: me, @tatibloom and @cecibloom developed this project <br> Design: Nicolò Cabiati, Erika Inzitari <br> Sound: me and Fabrizio Santososso </p>
