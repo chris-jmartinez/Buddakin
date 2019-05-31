@@ -25,6 +25,6 @@ Buddakin is a 2d-platform game developed for the Videogame Design and Programmin
 https://www.facebook.com/BuddakinGame/ </p>
 
 <b>Credits:</b>
-<p>Programming: me, @tatibloom and @cecibloom developed this project <br> Design: Nicolò Cabiati, Erika Inzitari <br> Sound: me and Fabrizio Santososso </p>
+<p>Programming: Christian Gianluca Tagliabue Martinez (me), @tatibloom and @cecibloom developed this project <br> Design: Nicolò Cabiati, Erika Inzitari <br> Sound: Christian Gianluca Tagliabue Martinez (me) and Fabrizio Santososso </p>
 
 <b>Enjoy!</b>
