@@ -7,7 +7,7 @@ __Genre:__
 2d-platform game
 
 __Languages:__
-developed in C#
+developed in C#. Framework: Unity.
 
 __Refinement:__
 the project is improvable, but is completely playable
@@ -25,6 +25,6 @@ Buddakin is a 2d-platform game developed for the Videogame Design and Programmin
 https://www.facebook.com/BuddakinGame/ </p>
 
 <b>Credits:</b>
-<p>Programming: Christian Gianluca Tagliabue Martinez (me), @tatibloom and @cecibloom developed this project <br> Design: Nicolò Cabiati, Erika Inzitari <br> Sound: Christian Gianluca Tagliabue Martinez (me) and Fabrizio Santososso </p>
+<p>Team Leader: Christian Gianluca Tagliabue Martinez <br> Programming: Christian Gianluca Tagliabue Martinez, @tatibloom and @cecibloom <br> Design: Nicolò Cabiati, Erika Inzitari <br> Sound: Christian Gianluca Tagliabue Martinez and Fabrizio Santososso </p>
 
 <b>Enjoy!</b>
