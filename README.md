@@ -1,6 +1,10 @@
 __Buddakin__
 <br>https://www.youtube.com/watch?v=chbhmGqFp3k
 
+<br><img src="images/buddakin1.png" width=400><img src="images/buddakin2.png" width=400>
+<br><img src="images/buddakin3.png" width=400><img src="images/buddakin4.png" width=400>
+<br><img src="images/buddakin5.png" width=400><img src="images/buddakin6.png" width=400>
+
 __OS:__ Windows, Linux, MacOSX
 
 __Genre:__
